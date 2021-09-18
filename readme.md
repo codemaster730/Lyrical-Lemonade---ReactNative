@@ -1,9 +1,15 @@
-
-  <img src="https://github.com/CodeChef7/Lyrical-Lemonade---ReactNative/blob/main/slideshow/1.png" name="image-1">
-
-Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](https://github.com/CodeChef7/Lyrical-Lemonade---ReactNative/blob/main/slideshow/1.png)  |  ![](https://github.com/CodeChef7/Lyrical-Lemonade---ReactNative/blob/main/slideshow/2.png)
+:-------------------------:|:-------------------------:
+![](https://github.com/CodeChef7/Lyrical-Lemonade---ReactNative/blob/main/slideshow/3.png)  |  ![](https://github.com/CodeChef7/Lyrical-Lemonade---ReactNative/blob/main/slideshow/4.png)
+:-------------------------:|:-------------------------:
+![](https://github.com/CodeChef7/Lyrical-Lemonade---ReactNative/blob/main/slideshow/5.png)  |  ![](https://github.com/CodeChef7/Lyrical-Lemonade---ReactNative/blob/main/slideshow/6.png)
+:-------------------------:|:-------------------------:
+![](https://github.com/CodeChef7/Lyrical-Lemonade---ReactNative/blob/main/slideshow/7.png)  |  ![](https://github.com/CodeChef7/Lyrical-Lemonade---ReactNative/blob/main/slideshow/8.png)
+:-------------------------:|:-------------------------:
+![](https://github.com/CodeChef7/Lyrical-Lemonade---ReactNative/blob/main/slideshow/9.png)  |  ![](https://github.com/CodeChef7/Lyrical-Lemonade---ReactNative/blob/main/slideshow/10.png)
+:-------------------------:|:-------------------------:
+![](https://github.com/CodeChef7/Lyrical-Lemonade---ReactNative/blob/main/slideshow/11.png)  |  ![](https://github.com/CodeChef7/Lyrical-Lemonade---ReactNative/blob/main/slideshow/12.png)
 
 # Tech Stack
 * Nodejs(v12.14.0)
